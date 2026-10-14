@@ -14,7 +14,6 @@ This repository contains short, focused Arduino programs. Each sketch demonstrat
 - Basic electronic components, depending on the sketch
 
 ## Getting Started
-
 1. Clone or download this repository.
 2. Open the `.ino` file you want to explore in the Arduino IDE.
 3. Connect your Arduino board to your computer.
