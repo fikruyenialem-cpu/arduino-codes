@@ -6,7 +6,6 @@ A collection of Arduino sketches developed while learning and practicing embedde
 
 This repository contains short, focused Arduino programs. Each sketch demonstrates a specific function or concept, making it easier to understand Arduino programming step by step.
 
-
 ##  Requirements
 
 - Arduino Uno or a compatible Arduino board
