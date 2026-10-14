@@ -57,7 +57,7 @@ const unsigned long BLINK_INTERVAL = 300;
 
 
 // =========================
-// SETUP
+// set up that is input out put
 // =========================
 
 void setup() {
