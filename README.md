@@ -6,16 +6,6 @@ A collection of Arduino sketches developed while learning and practicing embedde
 
 This repository contains short, focused Arduino programs. Each sketch demonstrates a specific function or concept, making it easier to understand Arduino programming step by step.
 
-## 📂 Projects
-
-| File | Description |
-|---|---|
-| `1 sec Interval LED Blinking.ino` | Blinks an LED at one-second intervals. |
-| `Slow LED blinking.ino` | Demonstrates slow LED blinking. |
-| `Turn LED on.ino` | Turns an LED on. |
-| `Turn LED OFF.ino` | Turns an LED off. |
-| `Sample-serial-message.ino` | Demonstrates basic serial communication. |
-| `Face Plus Knocking pattern Unlock.ino` | Arduino sketch for a face-recognition and knocking-pattern unlocking project. |
 
 ## 🛠️ Requirements
 
