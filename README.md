@@ -25,7 +25,6 @@ This repository contains short, focused Arduino programs. Each sketch demonstrat
 **Note:** Some sketches may require additional hardware or software to function correctly.
 
 ## Learning Goals
-
 - Understand basic Arduino syntax.
 - Learn digital input and output.
 - Control LEDs and other electronic components.
