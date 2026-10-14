@@ -3,7 +3,7 @@
 Servo doorServo;
 
 // =========================
-// PINS
+// Pin connection
 // =========================
 
 const int piezoPin = A0;
