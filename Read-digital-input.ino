@@ -1,12 +1,12 @@
-int sensorPin = 2;
+int sensorport = 2;
 
 void setup() {
-  pinMode(sensorPin, INPUT);
+  pinMode(sensorport, INPUT);
   Serial.begin(9600);
 }
 
 void loop() {
-  int state = digitalRead(sensorPin);
-  Serial.println(state);
+  int stuation = digitalRead(sensoport);
+  Serial.println(stuation);
   delay(500);
 }
