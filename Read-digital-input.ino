@@ -6,7 +6,7 @@ void setup() {
 }
 
 void loop() {
-  int stuation = digitalRead(sensoport);
+  int stuation = digitalRead(sensorport);
   Serial.println(stuation);
   delay(500);
 }
