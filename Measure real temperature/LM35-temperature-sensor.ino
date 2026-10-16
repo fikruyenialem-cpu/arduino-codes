@@ -15,5 +15,5 @@ void loop() {
   Serial.print(temperature);
   Serial.println(" degree celcious");
 
-  delay(1000);
+  delay(1000);// waits one second before measuring again.
 }
