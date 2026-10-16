@@ -16,7 +16,7 @@ void loop() {
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW);
 
-  long duration = pulseIn(echoPin, HIGH);
+  long duration = pulseIn(echoPin, HIGH);// measures how long a pin stays in the specified state
   float distance = duration * 0.0343 / 2;
 
   Serial.print("Distance: ");
